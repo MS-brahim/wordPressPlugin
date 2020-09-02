@@ -1,5 +1,5 @@
 # wordPressPlugin
-# Create a WordPress Plugin using the WPPB Boilerplate 
+# Create a WordPress Plugin 
 
 #Steps =>
 
@@ -13,10 +13,10 @@
 
     Step 5 : starting project wordpress . 
 
-    Step 6 : Copy the project folder save_color and paste in xampp\htdocs\wppb-project\wp-content\plugins. 
+    Step 6 : Copy the project folder plugin.php and paste in xampp\htdocs\wppb-project\wp-content\plugins. 
     PS. (wppb-project : your project folder in wordpress)
 
     Step 7 : Open a browser and go to URL http://localhost/wppb-project/
 
-    Step 8 : Active plugin "save_color"
+    Step 8 : Active plugin "my plugin"
 
